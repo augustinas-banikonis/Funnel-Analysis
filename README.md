@@ -56,7 +56,7 @@ ORDER BY event_order, event_type;
 | 6           | purchase         | 1,942                | 355           | 406          | 1.6%                     | 1.8%              | 1.6%             |
 
 ## Funnel chart
-![Funnel Chart](https://example.com/funnel_chart.png)
+![Funnel Chart](https://github.com/augustinas-banikonis/Funnel-Analysis/blob/main/funnels.PNG)
 
 ## Main Analysis Points
 
@@ -80,5 +80,10 @@ ORDER BY event_order, event_type;
 - Optimize website performance and loading times to provide a seamless and responsive browsing experience for users. (Check with the SEO specialist, team)
 - Use high-quality images and videos that accurately represent the products to enhance user confidence and trust in their purchases.
 - Double-check if promotion codes work.
+
+### Sources for conversion rate:
+- Shopify: https://www.shopify.com/blog/ecommerce-conversion-rate (States an average of 2.5% to 3%)
+- Adobe Experience Cloud: https://business.adobe.com/blog/how-to/ecommerce-conversion-rate-what-is-a-good-conversion-rate-and-how-to-optimize-it (Reports a 3.65% average with breakdowns by industry)
+
 
 
