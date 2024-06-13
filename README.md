@@ -1,7 +1,6 @@
 # Funnel Chart Analysis
-## Task
 
-### Objective
+### Task
 
 - Analyze the data in the `raw_events` table to identify user events.
 - Eliminate duplicate events to ensure accurate funnel analysis.
