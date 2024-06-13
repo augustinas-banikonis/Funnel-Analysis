@@ -1,5 +1,4 @@
-# Funnel Chart Analysis from Raw Events Data
-
+# Funnel Chart Analysis
 ## Task
 
 ### Objective
